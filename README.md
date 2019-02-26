@@ -17,6 +17,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Django 
 
 ```bash
 python manage.py runserver
+```
+
 
 ## Demo:
 
