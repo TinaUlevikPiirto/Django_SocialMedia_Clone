@@ -25,7 +25,7 @@ python manage.py runserver
 http://tinasnow.pythonanywhere.com/
 
 
-This code for a Social Media Clone is from this course
+This code for a Social Media is cloned from this course
 https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp
 
 
